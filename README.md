@@ -12,4 +12,4 @@ now after doing this we will start adding the new file using git add "file name"
 
 For pushing this fil on github we will do "git remote add origin and then ssh address"
 
-now for checking this was pushed or not we will run git remote -v command and it will show me the details of pushing
+now for checking this was pushed or not we will run git remote -v command and it will show me the details of pushing.
